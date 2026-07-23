@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37216.2 d17.14
+VisualStudioVersion = 17.14.37216.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetFandamental0504.MyConssoleApp3", "DotnetFandamental0504.MyConssoleApp3\DotnetFandamental0504.MyConssoleApp3.csproj", "{9DE7788E-968A-40CC-A6B1-6B307AC54204}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exc", "exc", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bakhPaziri", "bakhPaziri\bakhPaziri.csproj", "{FF498BF1-AD1D-491C-AC2C-E5ADAC776359}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{9DE7788E-968A-40CC-A6B1-6B307AC54204}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DE7788E-968A-40CC-A6B1-6B307AC54204}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DE7788E-968A-40CC-A6B1-6B307AC54204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF498BF1-AD1D-491C-AC2C-E5ADAC776359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF498BF1-AD1D-491C-AC2C-E5ADAC776359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF498BF1-AD1D-491C-AC2C-E5ADAC776359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF498BF1-AD1D-491C-AC2C-E5ADAC776359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FF498BF1-AD1D-491C-AC2C-E5ADAC776359} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {10C804BD-94BB-448F-A2B3-C81A32582925}
