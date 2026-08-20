@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetFandamental0504.MyCon
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exc", "exc", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bakhPaziri", "bakhPaziri\bakhPaziri.csproj", "{FF498BF1-AD1D-491C-AC2C-E5ADAC776359}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamrinHaye.Net", "bakhPaziri\TamrinHaye.Net.csproj", "{FF498BF1-AD1D-491C-AC2C-E5ADAC776359}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
